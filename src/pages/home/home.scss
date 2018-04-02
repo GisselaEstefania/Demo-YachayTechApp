@@ -1,3 +1,65 @@
 page-home {
+.schedule{
+    position: absolute;
+		top: 50px;
+		left: 50px;
+    height: 137px;
+    width: 114px;
+    border: 1px ;
+    background-image: url("../assets/imgs/background/bus.PNG"); 
+    };
+
+.news{
+    position:absolute;
+        top: 50px;
+        left: 180px;
+  
+    height: 137px;
+    width: 114px;
+    border: 1px ;
+    background-image: url("../assets/imgs/background/noti.PNG");
+    };
+
+.maps{
+    position:absolute;
+		top: 200px;
+		left: 50px;
+    height: 137px;
+    width: 114px;
+    border: 1px ;
+    background-image: url("../assets/imgs/background/mapa.PNG");
+    };
+
+.events{
+    position:absolute;
+        top: 200px;
+        left: 180px;
+    height: 137px;
+    width: 114px;
+    border: 1px ;
+    background-image: url("../assets/imgs/background/events.PNG");
+    };
+.D2L{
+    position:absolute;
+		top: 350px;
+		left: 50px;
+    height: 137px;
+    width: 114px;
+    border: 1px ;
+    background-image: url("../assets/imgs/background/D2L.PNG");
+    };
+
+.catalogo{
+    position:absolute;
+		top: 350px;
+		left: 180px;
+    height: 137px;
+    width: 114px;
+    border: 1px ;
+    background-image: url("../assets/imgs/background/catalogo.PNG");
+    };
+
 
 }
+
+
